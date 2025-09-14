@@ -57,16 +57,13 @@ Banks face challenges in customer churn, fraud detection, and identifying revenu
 banking-analytics/
 │
 ├── README.md
-├── requirements.txt
-├── Banking_Domain_Project_Report.pdf
+├── Banking_Project_Report.pdf
 │
 ├── notebooks/
 │ ├── exploratory_data_analysis.ipynb
-│ ├── churn_prediction.ipynb
 │
 ├── scripts/
 │ ├── data_ingestion.py
-│ ├── kpi_calculation.py
 │
 ├── dashboard/
 │ └── banking_domain_dashboard.pbix
